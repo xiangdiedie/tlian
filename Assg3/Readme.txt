@@ -1,0 +1,1 @@
+I added the new file named pacemaker_error_mode.aadl to the previous Pacemaker Project.
