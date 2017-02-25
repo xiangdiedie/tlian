@@ -1,0 +1,1 @@
+I made chages in pacemaker_error_mode.aadl
